@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 I'm developing websites with HTML, CSS, JS, PHP
@@ -8,7 +9,7 @@ I'm developing websites with HTML, CSS, JS, PHP
   
 </div>
 
-<!--
+
 **Quartyn/Quartyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
