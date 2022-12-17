@@ -3,6 +3,6 @@
 
 #OpenToWork
 
-Portfolio **[quartyn.ml](https://quartyn.ml)**   
+Portfolio **[quartyn.com](https://quartyn.com)**   
 Links **[linktr.ee/quartyn](https://linktr.ee/Quartyn)**   
-Email **[quartyn@quartyn.ml](mailto:quartyn@quartyn.ml)**
+Email **[quartyn@quartyn.com](mailto:quartyn@quartyn.com)**
